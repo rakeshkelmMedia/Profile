@@ -7,7 +7,7 @@ Check out, Profile
 
 https://github.com/rakeshkelmMedia (Actively updated)
 
-rakeshkelmMedia/profileVisuals folder (profile.img)
+rakeshkelmMedia/profileVisuals folder (profile.jpeg)
 
 Build and operationalize a planet.
 
